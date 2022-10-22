@@ -1,0 +1,13 @@
+name = "Steal"
+uuid = "82fdcc1c-f309-44fa-acf0-8f7f4d31f80e"
+authors = ["Rahul Manavalan <rahul.learns.physics@ gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
